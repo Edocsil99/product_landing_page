@@ -18,7 +18,7 @@ li a {
   display: inline-flex;
   color: white;
   text-align: center;
-  padding: 10px 12px;
+  padding: 13px 15px;
   text-decoration: none;
 }
 #nav-bar{
@@ -80,15 +80,16 @@ h3:hover {
     max-width: 450px;
     max-height: 522px;  
     display: inline-block;
-    padding-right: 72px;
+    padding-right: 70px;
+    padding-top:72px;
 }
 .T2010 {
     padding: 20px;
 }
 .tournament {
-    float: left;
+    padding: 15px;
     text-shadow: 4px 4px 7px black, 0 0 25px rgb(0, 204, 255), 0 0 5px rgba(125, 125, 236, 0.658);
-    /*Snippet from W3schools.com: https://www.w3schools.com/css/css3_shadows.asp*/   
+    /*Snippet on how-to-do a text-shadow from W3schools.com: https://www.w3schools.com/css/css3_shadows.asp*/   
     border-radius: 10px;
     text-align: center;
     color: rgba(128, 128, 128, 0.76);
