@@ -44,7 +44,7 @@ h3:hover {
     height: 572px;
     max-width: 100vw;
     width: auto;
-    background-color: #111;
+    background-color: #ffffff;
     color: rgb(201, 201, 201);
     flex-flow: column;
     background-image: url('images1/BLee.jpg');
@@ -61,7 +61,7 @@ h3:hover {
     width: auto;
     /*height:auto;*/
     background-color: rgb(124, 49, 49);
-    color: white;
+    color: #ffffff;
 }
 #pricing {
     text-align: center;
@@ -69,13 +69,13 @@ h3:hover {
     max-width: 100vw;
     width: auto;
     background-color: teal;
-    color: white;
+    color: #ffffff;
     overflow: scroll;
 }
 #sign-up {
     text-align: center;
     max-height: 350px;
-    color: white;
+    color: #ffffff;
     background-color: black;
 }
 .grid {
